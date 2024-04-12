@@ -7,19 +7,19 @@ class RocketSeat
     static void Main(string[] args)
     {
         //Exercicio 1
-        //Exercicio1();
+        Exercicio1();
 
         //Exercicio 2
-        //Exercicio2();
+        Exercicio2();
 
         //Exercicio 3
-        //Exercicio3(); 
+        Exercicio3(); 
 
         //Exercicio 4
-        //Exercicio4();
+        Exercicio4();
 
         //Exercicio 5
-        //Console.WriteLine(Exercicio5());
+        Console.WriteLine(Exercicio5());
 
         //Exercicio 6
         Exercicio6();
