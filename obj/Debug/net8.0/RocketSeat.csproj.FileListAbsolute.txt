@@ -1,0 +1,14 @@
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.exe
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.deps.json
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.runtimeconfig.json
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.dll
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.pdb
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.AssemblyInfoInputs.cache
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.AssemblyInfo.cs
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.csproj.CoreCompileInputs.cache
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.dll
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\refint\RocketSeat.dll
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.pdb
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.genruntimeconfig.cache
+C:\Users\gsald\Desktop\net core\Hello\RocketSeat\RocketSeat\obj\Debug\net8.0\ref\RocketSeat.dll
